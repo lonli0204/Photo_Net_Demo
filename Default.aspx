@@ -50,6 +50,18 @@
 									<div class="slide"> <img src="images/img03.png" alt="" /> </div>
 									<div class="slide"> <img src="images/img04.png" alt="" /> </div>
 									<div class="slide"> <img src="images/img05.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img06.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img07.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img08.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img09.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img10.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img11.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img12.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img13.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img14.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img15.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img16.png" alt="" /> </div>
+                                    <div class="slide"> <img src="images/img17.png" alt="" /> </div>
 								</div>
 							</div>
 						</div>
