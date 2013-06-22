@@ -7,7 +7,7 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>攝影堡</title>
+<title>愛拍照</title>
 <link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css" />
 <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
 <link href="style.css" rel="stylesheet" type="text/css" media="screen" />
@@ -23,7 +23,7 @@
 					<div id="header-wrapper">
 						<div id="header">
 							<div id="logo">
-								<h1><a href="#">攝影堡</a></h1>
+								<h1><a href="#">愛拍照</a></h1>
 							</div>
 						</div>
 					</div>
@@ -35,7 +35,7 @@
 								<li><a href="fourm/Default.aspx">討論區</a></li>
 								<li><a href="photo/Default.aspx">相簿</a></li>
 								<li><a href="blog/Default.aspx">部落格</a></li>
-								<li><a href="links/Default.aspx">連結</a></li>
+								<li><a href="links/Default.aspx">愛尋寶</a></li>
 								<li><a href="contact/Default.aspx">聯絡我們</a></li>
 							</ul>
 						</div>
@@ -65,7 +65,7 @@
 					</div>
 					<div id="content">
 						<div class="post">
-							<h2 class="title"><a href="#">歡迎光臨 攝影堡</a></h2>
+							<h2 class="title"><a href="#">歡迎光臨 愛拍照</a></h2>
 							<p class="meta">&nbsp;</p>
 						</div>
 						<div style="clear: both;">&nbsp;</div>
